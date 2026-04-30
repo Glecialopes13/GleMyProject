@@ -22,6 +22,10 @@
 		{
 			"Name": "LudusAI",
 			"Enabled": true
+		},
+		{
+			"Name": "VirtualHeightfieldMesh",
+			"Enabled": true
 		}
 	]
 }
